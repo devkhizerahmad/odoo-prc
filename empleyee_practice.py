@@ -12,7 +12,10 @@ class Mobile:
 
 # 4. Class ka object banao (jaise JS mein new Mobile())
 # Samsung mobile banao price 50000 ka
-my_phone = Mobile("Samsungg", 80000)
+my_phone = Mobile("Samsung", 80000)
+my_phone2 = Mobile("Iphone", 100000)
+
 
 # 5. Function call karo
 my_phone.show_details()  
+my_phone2.show_details()
