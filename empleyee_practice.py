@@ -14,9 +14,9 @@ class Mobile:
 # Samsung mobile banao price 50000 ka
 my_phone = Mobile("Samsung", 80000)
 my_phone2 = Mobile("Iphone", 100000)
+my_phone3 = Mobile("OnePlus", 60000)
 
 
 # 5. Function call karo
 my_phone.show_details()  
-
 my_phone2.show_details()
