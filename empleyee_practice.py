@@ -15,6 +15,7 @@ class Mobile:
 my_phone = Mobile("Samsung", 80000)
 my_phone2 = Mobile("Iphone", 100000)
 my_phone3 = Mobile("OnePlus", 60000)
+my_phone4 = Mobile("Xiaomi", 30000)
 
 
 # 5. Function call karo
