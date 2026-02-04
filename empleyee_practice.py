@@ -19,7 +19,6 @@ my_phone4 = Mobile("Xiaomi", 30000)
 my_phone5 = Mobile("Realme", 20000)
 sorted_phones = sorted([my_phone, my_phone2, my_phone3, my_phone4, my_phone5], key=lambda x: x.price)
 print("Phones sorted by price:", [phone.brand for phone in sorted_phones])
-asdc
 # 5. Function call karo
 my_phone.show_details()  
 my_phone2.show_details()
