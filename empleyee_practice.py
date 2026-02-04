@@ -18,4 +18,5 @@ my_phone2 = Mobile("Iphone", 100000)
 
 # 5. Function call karo
 my_phone.show_details()  
+
 my_phone2.show_details()
