@@ -25,3 +25,4 @@ my_phone2.show_details()
 sorted_phones[0].show_details()  # Sabse sasta phone dikhaye
 sorted_phones[-1].show_details()  # Sabse mehnga phone dikhaye
 sorted_phones[2].show_details()  # Beech ka phone dikhaye
+my_phone3.show_details()
