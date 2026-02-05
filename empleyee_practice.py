@@ -23,7 +23,7 @@ print("Phones sorted by price:", [phone.brand for phone in sorted_phones])
 # 5. Function call karo
 my_phone.show_details()  
 my_phone2.show_details()
-
+my_phone3.show_details()
 sorted_phones[0].show_details()  # Sabse sasta phone dikhaye
 sorted_phones[-1].show_details()  # Sabse mehnga phone dikhaye
 sorted_phones[2].show_details()  # Beech ka phone dikhaye
