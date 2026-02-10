@@ -231,7 +231,7 @@ if __name__ == "__main__":
     logger.debug("[MAIN] Creating Tester instance")
     test1 = Tester("Mike", 25, 50000, "Selenium")
     
-    logger.debug("[MAIN] Creating Employee instance")
+    logger.debug("[MAIN] Creating Employee instance")  
     emp1 = Employee("John", 30, 50000)
     
     logger.debug("[MAIN] Creating Manager instance")
