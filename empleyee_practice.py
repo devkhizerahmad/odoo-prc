@@ -59,7 +59,13 @@ class Developer(Employee):
     
     def show_details(self):
         print(f"Developer Name: {self.name}, Age: {self.age}, Salary: {self.salary}, Programming Language: {self.programming_language}")
-
+class Tester(Employee):
+    def __init__(self, name, age, salary, testing_tool):
+        super().__init__(name, age, salary)
+        self.testing_tool = testing_tool
+    
+    def show_details(self):
+        print(f"Tester Name: {self.name}, Age: {self.age}, Salary: {self.salary}, Testing Tool: {self.testing_tool}")
 # Creating objects
 emp1 = Employee("John", 30, 50000)
 emp1.show_details()
