@@ -232,6 +232,7 @@ if __name__ == "__main__":
     test1 = Tester("Mike", 25, 50000, "Selenium")
     
     logger.debug("[MAIN] Creating Employee instance")  
+    logger.debug("[MAIN] Employee instance created")
     emp1 = Employee("John", 30, 50000)
     
     logger.debug("[MAIN] Creating Manager instance")
