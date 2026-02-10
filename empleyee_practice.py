@@ -67,6 +67,7 @@ class Tester(Employee):
     def show_details(self):
         print(f"Tester Name: {self.name}, Age: {self.age}, Salary: {self.salary}, Testing Tool: {self.testing_tool}")
 # Creating objects
+test1 = Tester("Mike", 25, 50000, "Selenium")
 emp1 = Employee("John", 30, 50000)
 emp1.show_details()
 
