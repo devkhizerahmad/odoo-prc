@@ -86,6 +86,7 @@ class Employee:
 class Manager(Employee):
     """
     Manager class - Extends Employee with department information
+    """
     Data Flow: Inherits base attributes + adds department
     """
     def __init__(self, name, age, salary, department):
