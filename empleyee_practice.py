@@ -237,7 +237,7 @@ if __name__ == "__main__":
     logger.debug("[MAIN] Creating Manager instance")
     mgr1 = Manager("Alice", 35, 80000, "IT")
     
-    logger.debug("[MAIN] Creating Developer instance")
+    logger.debug("[MAIN] Creating Developer instance developer of target department")
     dev1 = Developer("Bob", 28, 60000, "Python")
     
     logger.info("[MAIN] All employee objects created successfully")
