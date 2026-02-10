@@ -35,8 +35,11 @@ my_phone4.show_details()
 
 class Employee:
     def __init__(self, name, age, salary):
-    def show_details(self):
-        print(f"Employee Name: {self.name}, Age: {self.age}, Salary: {self.salary}")
         self.name = name
         self.age = age
         self.salary = salary
+
+    def show_details(self):
+        print(f"Employee Name: {self.name}, Age: {self.age}, Salary: {self.salary}")
+emp1 = Employee("John", 30, 50000)
+emp1.show_details()
