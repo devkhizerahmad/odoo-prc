@@ -32,3 +32,5 @@ updated_phones[2].show_details()
 updated_phones[3].show_details()
 
 my_phone4.show_details()
+
+class Employee:
