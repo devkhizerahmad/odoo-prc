@@ -33,6 +33,7 @@ updated_phones[3].show_details()
 
 my_phone4.show_details()
 
+
 class Employee:
     def __init__(self, name, age, salary):
         self.name = name
@@ -41,5 +42,30 @@ class Employee:
 
     def show_details(self):
         print(f"Employee Name: {self.name}, Age: {self.age}, Salary: {self.salary}")
+
+# Child class inheriting from Employee
+class Manager(Employee):
+    def __init__(self, name, age, salary, department):
+        super().__init__(name, age, salary)
+        self.department = department
+    
+    def show_details(self):
+        print(f"Manager Name: {self.name}, Age: {self.age}, Salary: {self.salary}, Department: {self.department}")
+
+class Developer(Employee):
+    def __init__(self, name, age, salary, programming_language):
+        super().__init__(name, age, salary)
+        self.programming_language = programming_language
+    
+    def show_details(self):
+        print(f"Developer Name: {self.name}, Age: {self.age}, Salary: {self.salary}, Programming Language: {self.programming_language}")
+
+# Creating objects
 emp1 = Employee("John", 30, 50000)
 emp1.show_details()
+
+mgr1 = Manager("Alice", 35, 80000, "IT")
+mgr1.show_details()
+
+dev1 = Developer("Bob", 28, 60000, "Python")
+dev1.show_details()
