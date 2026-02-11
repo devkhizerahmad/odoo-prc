@@ -256,6 +256,7 @@ if __name__ == "__main__":
     logger.info("\nOrganization Details:\n" + "-" * 30 + "\n")
     logger.info(f"\nOrganization: {org.name}\n" + "-" * 30 + "\n")
     logger.info(f"\nEmployees:\n" + "-" * 30 + "\n")
+    org.add_employee()
     org.show_all_employees()
     
     logger.info("=" * 50)
