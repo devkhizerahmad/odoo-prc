@@ -253,7 +253,7 @@ if __name__ == "__main__":
     
     # Step 4: Display all employee details
     logger.info("[MAIN] Step 4: Displaying all employee details")
-    logger.info("step 4: Displaying all  ")
+    logger.info("step 4: Displaying   ")
     org.show_all_employees()
     
     logger.info("=" * 50)
