@@ -27,9 +27,6 @@ class Handler(FileSystemEventHandler):
         if event.src_path.endswith(self.file_to_watch):
             print(f"\n[INFO] Detected change in {self.file_to_watch}. Running...\n")
             subprocess.run(["python", self.file_to_watch])
-        else:
-            lkj
-            print(f"\n[INFO] Detected change in {event.src_path}, but it's not {self.file_to_watch}.\n")
 
 if __name__ == "__main__":
     file_name = "empleyee_practice.py"  # apni main file ka naam
