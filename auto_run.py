@@ -29,6 +29,6 @@ class Handler(FileSystemEventHandler):
             subprocess.run(["python", self.file_to_watch])
 
 if __name__ == "__main__":
-    file_name = "empleyee_practice.py"  # Change this to the name of the file you want to watch
+    file_name = "empleyee_practice.py"  # Change this to the name of the file you want 
     w = Watcher(file_name)
     w.run()
