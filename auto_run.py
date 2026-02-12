@@ -19,7 +19,7 @@ class Watcher:
         except KeyboardInterrupt:
             self.observer.stop()
         self.observer.join()
-
+asdcsadadcsadsad
 
 class Handler(FileSystemEventHandler):
     def __init__(self, file_to_watch):
