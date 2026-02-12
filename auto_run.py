@@ -28,6 +28,7 @@ class Handler(FileSystemEventHandler):
             print(f"\n[INFO] Detected change in {self.file_to_watch}. Running...\n")
             subprocess.run(["python", self.file_to_watch])
         else:
+            lkj
             print(f"\n[INFO] Detected change in {event.src_path}, but it's not {self.file_to_watch}.\n")
 
 if __name__ == "__main__":
