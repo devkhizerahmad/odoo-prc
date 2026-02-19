@@ -263,3 +263,6 @@ if __name__ == "__main__":
     logger.info("=" * 50)
     logger.info("[MAIN] Employee Management System execution completed")
     logger.info("=" * 50)
+
+# bank status updated
+class 
