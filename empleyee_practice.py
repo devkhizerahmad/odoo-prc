@@ -275,3 +275,4 @@ class Bank:
     if __name__ == "__main__":
         bank = Bank("MyBank", 100000)
         bank.show_status()
+    for i in range(5):
