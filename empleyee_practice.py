@@ -276,4 +276,6 @@ class Bank:
         bank = Bank("MyBank", 100000)
         bank.show_status()
     for i in range(5):
+        if i % 2 == 0:
+            bank.balance += 10000  # Deposit
         print(f"Transaction {i+1}: Balance is {bank.balance}")
