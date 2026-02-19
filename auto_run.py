@@ -32,3 +32,4 @@ if __name__ == "__main__":
     file_name = "empleyee_practice.py"  # Change this to the name of the file you want to watch
     w = Watcher(file_name)
     w.run()
+    
