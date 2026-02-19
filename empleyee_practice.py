@@ -286,7 +286,17 @@ class Bank:
     case 1: Deposit
         print(f"Transaction {i+1}: Deposited 10000. Balance is {bank.balance}")
     case 2: Withdrawal
-    
+        for i in range(5):
+            if i % 2 == 0:
+                bank.balance += 10000  # Deposit
+                print(f"Transaction {i+1}: Deposited 10000. Balance is {bank.balance}")
+            else:
+                if bank.balance < 5000:
+                    print(f"Transaction {i+1}: Insufficient funds for withdrawal. Current balance: {bank.balance}")
+                    continue
+                bank.balance -= 5000   # Withdrawal
+                print(f"Transaction {i+1}: Withdrew 5000. Balance is {bank.balance}")
+
     case 3: Insufficient funds
 
         print(f"Transaction {i+1}: Balance is {bank.balance}")
