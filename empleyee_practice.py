@@ -286,5 +286,7 @@ class Bank:
     case 1: Deposit
         print(f"Transaction {i+1}: Deposited 10000. Balance is {bank.balance}")
     case 2: Withdrawal
+    
+    case 3: Insufficient funds
 
         print(f"Transaction {i+1}: Balance is {bank.balance}")
