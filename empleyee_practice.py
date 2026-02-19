@@ -283,4 +283,5 @@ class Bank:
                 print(f"Transaction {i+1}: Insufficient funds for withdrawal. Current balance: {bank.balance}")
                 continue
             bank.balance -= 5000   # Withdrawal
+    case 1: Deposit
         print(f"Transaction {i+1}: Balance is {bank.balance}")
