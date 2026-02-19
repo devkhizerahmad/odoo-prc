@@ -265,4 +265,10 @@ if __name__ == "__main__":
     logger.info("=" * 50)
 
 # bank status updated
-class 
+class Bank:
+    def __init__(self, name, balance):
+        self.name = name
+        self.balance = balance
+
+    def show_status(self):
+        print(f"Bank Name: {self.name}, Balance: {self.balance}")
