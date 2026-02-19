@@ -273,3 +273,5 @@ class Bank:
     def show_status(self):
         print(f"Bank Name: {self.name}, Balance: {self.balance}")
     if __name__ == "__main__":
+        bank = Bank("MyBank", 100000)
+        bank.show_status()
