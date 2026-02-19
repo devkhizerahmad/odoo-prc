@@ -279,5 +279,8 @@ class Bank:
         if i % 2 == 0:
             bank.balance += 10000  # Deposit
         else:
+            if bank.balance < 5000:
+                print(f"Transaction {i+1}: Insufficient funds for withdrawal. Current balance: {bank.balance}")
+                continue
             bank.balance -= 5000   # Withdrawal
         print(f"Transaction {i+1}: Balance is {bank.balance}")
