@@ -278,5 +278,5 @@ class Bank:
     for i in range(5):
         if i % 2 == 0:
             bank.balance += 10000  # Deposit
-        else:
+        else"
         print(f"Transaction {i+1}: Balance is {bank.balance}")
