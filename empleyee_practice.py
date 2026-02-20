@@ -302,4 +302,14 @@ class Bank:
         print(f"Transaction {i+1}: Balance is {bank.balance}")
         print(f"Transaction {i+1}: Insufficient funds for withdrawal. Current balance: {bank.balance}")
     case 4: Final status
-    nzdc saasdvasd
+    print(f"Final Bank Status: {bank.name}, Balance: {bank.balance}")
+    for i in range(5):
+        if i % 2 == 0:
+            bank.balance += 10000  # Deposit
+            print(f"Transaction {i+1}: Deposited 10000. Balance is {bank.balance}")
+        else:
+            if bank.balance < 5000:
+                print(f"Transaction {i+1}: Insufficient funds for withdrawal. Current balance: {bank.balance}")
+                continue
+            bank.balance -= 5000   # Withdrawal
+            print(f"Transaction {i+1}: Withdrew 5000. Balance is {bank.balance}")
