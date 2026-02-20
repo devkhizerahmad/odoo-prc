@@ -313,5 +313,4 @@ class Bank:
                 continue
             bank.balance -= 5000   # Withdrawal
             print(f"Transaction {i+1}: Withdrew 5000. Balance is {bank.balance}")
-            finally:
-                print(f"Final  Status: {bank.name}, Balance: {bank.balance}")
+            finally:us: {bank.name}, Balance: {bank.balance}")
