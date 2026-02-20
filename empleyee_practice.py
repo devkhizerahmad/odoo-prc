@@ -300,3 +300,4 @@ class Bank:
     case 3: Insufficient funds
 
         print(f"Transaction {i+1}: Balance is {bank.balance}")
+        print(f"Transaction {i+1}: Insufficient funds for withdrawal. Current balance: {bank.balance}")
