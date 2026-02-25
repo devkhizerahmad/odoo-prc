@@ -108,6 +108,7 @@ class Manager(Employee):
         super().show_details()
         print(f"Department: {self.department}")
         logger.debug(f"[Manager.show_details] Manager details displayed")
+        logger.debug()
 
 
 class Developer(Employee):
