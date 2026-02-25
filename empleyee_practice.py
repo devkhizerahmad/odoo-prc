@@ -98,7 +98,7 @@ class Manager(Employee):
         self.department = department
         
         logger.info(f"[Manager.__init__] Manager '{name}' from department '{department}' created successfully")
-    
+    asdc
     def show_details(self):
         """
         Display manager details including department
