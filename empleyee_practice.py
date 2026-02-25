@@ -76,7 +76,7 @@ class Employee:
         logger.debug(f"[Employee.show_details] Displaying details for: {self.name}")
         print(f"Employee Name: {self.name}, Age: {self.age}, Salary: {self.salary}")
         logger.debug(f"[Employee.show_details] Details displayed successfully")
-
+as
 
 # ============================================================================
 # Child classes inheriting from Employee
