@@ -15,6 +15,7 @@
 # my_phone = Mobile("Samsung", 80000)
 # my_phone2 = Mobile("Iphone", 100000)
 # my_phone3 = Mobile("OnePlus", 60000)
+sad
 # my_phone4 = Mobile("Xiaomi", 30000)
 # my_phone5 = Mobile("Realme", 20000)
 # updated_phones = [my_phone, my_phone2, my_phone3, my_phone4, my_phone5]
