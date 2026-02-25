@@ -117,7 +117,7 @@ class Developer(Employee):
     """
     def __init__(self, name, age, salary, programming_language):
         logger.debug(f"[Developer.__init__] Creating Developer object")
-        logger.debug(f"[Developer.__init__] Input params - name: {name}, age: {age}, salary: {salary}, programming_language: {programming_language}")
+        logger.debug(f"[Developer.__init__] Input params - name is : {name}, age: {age}, salary: {salary}, programming_language: {programming_language}")
         
         # Call parent class constructor
         super().__init__(name, age, salary)
