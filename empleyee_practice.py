@@ -9,7 +9,7 @@ hj# # 1. Ek class banao jiska naam ho "Mobile"
 #     # 3. Ek function banao jo print kare "Ye mobile [brand] ka hai"
 #     def show_details(self):
 #         print(sadf"modile brand {self.brand} with the price {self.price} ")
-sd
+sdsacd
 # # 4. Class ka object banao (jaise JS mein new Mobile())
 # # Samsung mobile banao price 50000 ka
 # my_phone = Mobile("Samsung", 80000)
