@@ -12,7 +12,7 @@ asdhj# # 1. Ek class banao jiska naam ho "Mobile"
 
 # # 4. Class ka object banao (jaise JS mein new Mobile())
 # # Samsung mobile banao price 50000 ka
-# my_phone = Mobile("Samsung", 80000)
+# my_phone = Mobile("Samsung", 80000)ad
 # my_phone2 = Mobile("Iphone", 100000)
 # my_phone3 = Mobile("OnePlus", 60000)
 sad
