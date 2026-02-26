@@ -1,4 +1,4 @@
-hj# # 1. Ek class banao jiska naam ho "Mobile"
+asdhj# # 1. Ek class banao jiska naam ho "Mobile"
 # class Mobile:
 #     # 2. Ek constructor (__init__) banao jo 'brand' aur 'price' le
 #     def __init__(self, brand, price):
