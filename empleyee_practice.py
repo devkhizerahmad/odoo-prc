@@ -5,7 +5,7 @@ asdhj# # 1. Ek class banao jiska naam ho "Mobile"
 #         self.brand = brand jj
 #         self.price = price
 #         print(f"Mobasdile createsdd with brand {self.brand} and price {self.price}")
-    $$324sdvazc zxadcsaasdcsaavavasd
+    $$324sdvazc zxadcsaasdcsaav
 #     # 3. Ek function banao jo print kare "Ye mobile [brand] ka hai"
 #     def show_details(self):asd
 #         print(sadf"modile brand {self.brand} with the price {self.price} ")
