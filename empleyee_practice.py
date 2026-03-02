@@ -4,7 +4,7 @@ asdhj# # 1. Ek class banao jiska naam ho "Mobile"
 #     def __init__(self, brand, price):
 #         self.brand = brand jj
 #         self.price = price
-#         print(f"Mobasdile createsdd with brand {self.brand} and price {self.price}")
+#         print(f"Mobasdile creatqwefesdd with brand {self.brand} and price {self.price}")
     $$324sdvazc zxadcsaasdcsaav
 #     # 3. Ek function banao jo print kare "Ye mobile [brand] ka hai"
 #     def show_details(self):asd
