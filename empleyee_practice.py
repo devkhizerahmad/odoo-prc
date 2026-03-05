@@ -3,7 +3,7 @@ asdhj# # 1. Ek class banao jiska naam ho "Mobile"
 #     # 2. Ek constructor (__init__) banao jo 'brand' aur 'price' le
 #     def __init__(self, brand, price):
 #         self.brand = brand jjsad
-
+sasadcc
 kj,mbkasdcasdc
 #         self.price = pricesadcsacd asasdc
 #         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbrand nm{self.brand} and price {self.price}")
