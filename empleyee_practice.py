@@ -4,7 +4,7 @@ asdhj# # 1. Ek class banao jiska naam ho "Mobile"
 #     def __init__(self, brand, price):
 #         self.brand = brand jj
 
-kj,mbk
+kj,mbkasdcasdc
 #         self.price = price
 #         print(f"Mobasdile creatqwefesdd with brand nm{self.brand} and price {self.price}")
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvb
