@@ -9,7 +9,7 @@ kj,mbkasdcasdc
 #         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbrand nm{self.brand} and price {self.price}")
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvb
 #     # 3. Ek function banao jo print kare "Ye mobeqewile [brand] ka hai"
-#     def show_details(self):asd
+#     def show_details(self):asdasdcsadc
 #         print(sadf"modile brand {self.brand} with th\z xz \\ze prdsadcice {self.price} ")
 qwe
 # # 4. Class ka object banao (jaise JS mein new Mobile())
