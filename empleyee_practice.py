@@ -6,7 +6,7 @@ asdhj# # 1. Ek class banao jiska naam ho "Mobile"
 
 kj,mbkasdcasdc
 #         self.price = price
-#         print(f"Mobasdile creatqwefesdd with brand nm{self.brand} and price {self.price}")
+#         print(f"Mobasdile creatqasdcasdwefesdd with brand nm{self.brand} and price {self.price}")
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvb
 #     # 3. Ek function banao jo print kare "Ye mobeqewile [brand] ka hai"
 #     def show_details(self):asd
