@@ -5,7 +5,7 @@ asdhj# # 1. Ek class banao jiska naam ho "Mobile"
 #         self.brand = brand jj
 
 kj,mbkasdcasdc
-#         self.price = price
+#         self.price = pricesadcsacd as
 #         print(f"Mobasdile creatqasdcasdwefesdd with brand nm{self.brand} and price {self.price}")
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvb
 #     # 3. Ek function banao jo print kare "Ye mobeqewile [brand] ka hai"
