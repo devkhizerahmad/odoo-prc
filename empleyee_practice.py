@@ -7,7 +7,7 @@ sasadccasdcaasdcs
 kj,mbkasdcasdcasdcaasd asdcasdca
 #         self.price = pricesadcsacd asasdc
 #         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbrand nm{self.brand} and price {self.price}")
-    $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvbsadcsa
+    $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvbsadcsaasdc
 #     # 3. Ek function banao jo print kare "Ye mobeqewile [brand] ka hai"
 #     def show_details(self):asdasdcsadc
 #         print(sadf"modile brand {self.brand} with th\z xz \\ze prdsadcice {self.price} ")
