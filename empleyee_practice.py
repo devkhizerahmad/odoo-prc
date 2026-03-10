@@ -10,7 +10,7 @@ kj,mbkasdcasdcasdcaasd asdcasdca
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvbsadcsaasdc
 #     # 3. Ek function banao jo print kare "Ye mobeqewile [brand] ka hai"
 #     def show_details(self):asdasdcsadc
-#         print(sadf"modile brand {self.brand} with th\z xz \\ze prdsadcice {self.price} ")
+#         print(sadf"modile brand {self.brand} with th\z xz \\ze prdsadcice {self.price}as as ")
 qwe
 # # 4. Class ka object banao (jaise JS mein new Mobile())
 # # Samsung mobile banao price 50000 ka
