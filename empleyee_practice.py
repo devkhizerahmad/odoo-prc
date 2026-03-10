@@ -8,7 +8,7 @@ kj,mbkasdcasdcasdcaasd asdcasdca
 #         self.price = pricesadcsacd asasdcsd sadscas dadsadadsca  ma /
 console.log there is more then the optical andwec
 and the is nomre thenth esd s
-#         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbrand nm{self.brand} and price {self.price}")sadas d
+#         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbrand nm{self.brand} and price {swecwelf.price}")sadas d
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvbsadcsaasdcsd adscasdsd sadscsad
 #     # 3. Ek function banao jo print kare "Ye mobeqewile [brand] ka hai"sd cswecw 
 #     def show_details(self):asdasdcsadc
