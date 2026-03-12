@@ -46,7 +46,7 @@ sadv
 # Data Flow:
 # 1. Base Employee class -> Inherited by Manager, Developer, Tester
 # 2. Organization class -> Manages collection of Employee objects of the mask
-# 3. Main execution -> Creates instances and adds them to organization
+# 3. Main execution -> Creates instances and adds them to organizationvof the enthiusem
 # ============================================================================
 
 import logging
