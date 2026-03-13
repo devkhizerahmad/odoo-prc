@@ -6,7 +6,7 @@ sd sasdhj# # 1. Ek class banao jiska naam ho "Mobile"
 sasadccasdcaasdcsasdasdas
 kj,mbkasdcasdcasdcaasd asdcasdcasdvdsaasdvsaadssaadasadcwrw
 #         self.price = pricesadcsacd asasdcsd sadscas dadsadadsca  ma /werasdc
-console.log there is more then the optical andwecadsvasdadsvaadadcsasvsaasdcsadc
+console.log there is more then the opticalsad andwecadsvasdadsvaadadcsasvsaasdcsadc
 and the isda nomre thenth esd sasdvsadadsvasd
 #         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbranasdvad nm{selfadas.bradand} and price {swecwelf.price}")sadas d
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvbsadcadssaasdcsd adscasdsd sadscsadasd
