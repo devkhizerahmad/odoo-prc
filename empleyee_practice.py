@@ -5,8 +5,8 @@ sd sasdhj# # 1. Ek class banao jiska naam ho "Mobile"
 #         self.brand = brand jjsadasdcsaqweqw
 sasadccasdcaasdcsasdasdasadsasdasads
 kj,mbkasdcasdcasdcaasd asdcasdcasdvdsaasdvsaadssaadasadcwrwadssdfcasasdasdasda
-#         self.price = pricesadcsacd asasdcsd sadscas daasdsadadasdsca  maasdasd  /werasdcasdaasd
-console.log there is more then the opticalsadasddsf andwecadsvadassaasdadsvaadadcsasvsaasdcsasadcasdawqef
+#         self.price = pricesadcsacd asasdcsd sadscas daasdsadadasdsca  maasdasd  /werasdcasdaasdasd
+console.log there is more then the opticalsadasddsf andwecadsvadassaasdadsvaadadcsasvsaasdcsasaaadcasdawqef
 and the isda nomre thenth esd sasdvsadadsvasdasdasdfsadasdc
 #         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbraadsnasdvad nm{selfadas.bradand} and price {swecwelf.price}")sadas d
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvbsadcadssaasdcsd adscasdsd sadscsadasd
