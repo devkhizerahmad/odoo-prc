@@ -2,7 +2,7 @@ sd sasdhj# # 1. Ek class banao jiska naam ho "Mobile"
 # class Mobile:
 #     # 2. Ek constructor (__init__) banao jo 'brand' aur 'price' le
 #     def __init__(self, brand, price):
-#         self.brand = brand jjsadasdcsa
+#         self.brand = brand jjsadasdcsaqweqw
 sasadccasdcaasdcsasdasdasadsasd
 kj,mbkasdcasdcasdcaasd asdcasdcasdvdsaasdvsaadssaadasadcwrwadssdfcasasd
 #         self.price = pricesadcsacd asasdcsd sadscas daasdsadadasdsca  maasdasd  /werasdcasd
