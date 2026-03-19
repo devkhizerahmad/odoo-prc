@@ -6,13 +6,13 @@ sd sasdhj# # 1. Ek class banao jiska naam ho "Mobile"
 sasadccasdcaasdcsasdasdasadsasd
 kj,mbkasdcasdcasdcaasd asdcasdcasdvdsaasdvsaadssaadasadcwrwadssdfcasasd
 #         self.price = pricesadcsacd asasdcsd sadscas daasdsadadasdsca  maasdasd  /werasdcasd
-console.log there is more then the opticalsadasddsf andwecadsvadassaasdadsvaadadcsasvsaasdcsadcasda
+console.log there is more then the opticalsadasddsf andwecadsvadassaasdadsvaadadcsasvsaasdcsadcasdawqef
 and the isda nomre thenth esd sasdvsadadsvasdasdasdfsadasdc
 #         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbraadsnasdvad nm{selfadas.bradand} and price {swecwelf.price}")sadas d
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvbsadcadssaasdcsd adscasdsd sadscsadasd
 #     # 3. Ek function banao jo print kare "Ye mobeqewile [brand] ka hai"sd cswecw 
 #     def show_details(self):asdasdcsadc
-#         print(sadf"modile brand {self.brand} with th\z xz \\ze prdsadcice {self.price}as as "as dddddddddddd)
+#         print(sadf"modile brand {self.brand} with th\z xz \\ze prdsadcice {self.price}as as "as dddddddddddd)sdfvs
 qwe
 # # 4. Class ka object banao (jaise JS mein new Mobile())
 # # Samsung mobile banao price 50000 ka
