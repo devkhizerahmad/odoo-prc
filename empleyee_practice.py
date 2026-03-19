@@ -3,7 +3,7 @@ sd sasdhj# # 1. Ek class banao jiska naam ho "Mobile"
 #     # 2. Ek constructor (__init__) banao jo 'brand' aur 'price' le
 #     def __init__(self, brand, price):
 #         self.brand = brand jjsadasdcsaqweqw
-sasadccasdcaasdcsasdasdasadsasd
+sasadccasdcaasdcsasdasdasadsasdas
 kj,mbkasdcasdcasdcaasd asdcasdcasdvdsaasdvsaadssaadasadcwrwadssdfcasasdasd
 #         self.price = pricesadcsacd asasdcsd sadscas daasdsadadasdsca  maasdasd  /werasdcasdaasd
 console.log there is more then the opticalsadasddsf andwecadsvadassaasdadsvaadadcsasvsaasdcsadcasdawqef
