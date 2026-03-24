@@ -1,6 +1,6 @@
 sd sasdhj# # 1. Ek class banao jiska naam ho "Mobile"
 # class Mobile:
-#     # 2. Ek constructor (__init__) banao jo 'brand' aur 'price' le
+#     # 2. Ek constructor (__init__) banao jo 'brand' aur 'price' leads
 #     def __init__(self, brand, price):
 #         self.brand = brand jjsadasdcsaqweqw
 sasadccasdcaasdcsasdasdasadsasdasads
