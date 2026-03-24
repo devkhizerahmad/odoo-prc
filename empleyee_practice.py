@@ -7,7 +7,7 @@ sasadccasdcaasdcsasdasdasadsasdasads
 kj,mbkasdcasdcasdcaasd asdcasdcasdvdsaasdvsaadssaadasadcwrwadssdfcasasdasdasda
 #         self.price = pricesadcsacd asasdcsd sadscas daasdsadadasdsca  maasdasd  /werasdcasdaaadssdeasd
 console.log there is more then the opticalsadasddsf andwecadsvadassaasdadsvaadadcsasvsaasdcsasaaadcasdawqef
-and the isda nomre thenth esd sasdvsadadsvasdasdasdfsadasdc
+and the isda nomre thenth esd sasdvsadadsvasdasdasdfsadasdcer
 #         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbraadsnasdvad nm{selfadas.bradand} and price {swecwelf.price}")sadas d
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvbsadcadssaasdcsd adscasdsd sadscsadasd
 #     # 3. Ek function banao jo print kare "Ye mobeqewile [brand] ka hai"sd cswecw 
