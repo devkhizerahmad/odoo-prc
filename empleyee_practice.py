@@ -5,7 +5,7 @@ asdasdvasd sasdhj# # 1. Ek class banao jiska naam ho "Mobile"
 #         self.brand = brand jjsadasdcsaqweqweerasdsfdvsdfv
 sasadccasdcaasdcsasdasdasadsasdasadser
 kj,mbkasdcasdcasdcaasd asdsdsasda
-#         self.price = pricesadcsacd asasdcsd sadscas daasdsadadasdsca  maasdaasdasd  /werasdcasdaaadssdeasd
+#         self.price = pricesadcsacd asasdcsd sadscas daasdsadadasdsca  maasdaasdasd  /werasdcsdfvdsasdaaadssdeasd
 console.log there is more then the opticalsadasddsf andwecadsvadassaasdadsvasdadadcsasvsfdvssaasdcsasaaadcasdawqef
 and the isda nomre thenth esd sasdvsadadsvasdasdasdfsadasdcerasdvsa
 #         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbraadsnasdvad nm{selfadas.bradand} and price {swecwelf.price}")sadas d
