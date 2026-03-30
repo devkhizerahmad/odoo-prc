@@ -1,7 +1,7 @@
 asdasdvasd sasdhj# # 1. Ek class banao jiska naam ho "Mobile"
 # class Mobile:
 #     # 2. Ek constructor (__init__) banao jo 'brand' aur 'price' leads
-#     def __init__(self, brand, price):
+#     def __init__(self, brand, price):rqrf
 #         self.brand = brand jjsadasdcsaqweqweerasdsfdvsdfv
 sasadccasdcaasdcsasdasdasadsasdasadserwerew
 kj,mbkasdcasdcasdcaasd asdsdsasda
@@ -83,7 +83,7 @@ class Employee:
         logger.debug(f"[Employee.show_details] Details displayed successfully")
         logger.debug(f"[Employee")
 as
-
+qeq
 # ============================================================================
 # Child classes inheriting from Employee
 # Data Flow: Each child class extends Employee with specific attributes
