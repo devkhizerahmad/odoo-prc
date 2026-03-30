@@ -4,7 +4,7 @@ asdasdvasd sasdhj# # 1. Ek class banao jiska naam ho "Mobile"
 #     def __init__(self, brand, price):rqrf
 #         self.brand = brand jjsadasdcsaqweqweerasdsfdvsdfvqw
 sasadccasdcaasdcsasdasdasadsasdasadserwerew
-kj,mbkasdcasdcasdcaasd asdsdsasdaqeqwr
+kj,mbkasdcasdcasdcaasd asdsdsasdaqeqwr23rf2r
 #         self.price = pricesadcsacd asasdcsd sadscas daasdsadadasdsca  maasdaa23f32f23fr2qrsdasd  /werasdcsdfvqrqdsasdaaadssdeasd
 console.log there is more then the opticalsadasddsf andwecadsvadassaasdadsvasdaqrqdadcsasvsfdvssaasdcsasaaadcasdawqef
 and the isda nomre thenth esd sasdvsadadsvasdasdasdfsadasdcerasdvsa
