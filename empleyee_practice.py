@@ -3,7 +3,7 @@ asdasdvasd sasdhj# # 1. Ek class banao jiska naam ho "Mobile"
 #     # 2. Ek constructor (__init__) banao jo 'brand' aur 'price' leads
 #     def __init__(self, brand, price):rqrf  dfbsd
 #         self.brand = brand jjsadasdcsaqweqweerasdsfdvsdfvqw dfsd
-sasadccasdcaasdcsasdasdasadsasdasadserwerew egber
+sasadccasdcaasdcsasdasdasadsasdasadserwerew egber sfdsd
 kj,mbkasdcasdcasdcaasd asdsdsasdaqeqwr23rf2rwevw sdfvsdfsdfvdssdfvds sfdbsdbf dfbgdf gs sfdv efvwev sfbvsf 
 #         self.price = pricesadcsacd asasdcsd sadscas daasdsadadawefvsdsca  maasdaa23f32f2wrw3wrwvfr2qrsdasd  /werasdcsdfvqrqdsasdaaadssdeasd
 console.log thewvwvere is more then the opticalsadasddsf wwerg andwecadsvadassaasdadsvasdaqrqdadcsasvsfdvssaasdcsasaaadcasdawqef
