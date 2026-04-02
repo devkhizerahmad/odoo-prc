@@ -10,7 +10,7 @@ console.log thewvwvere is more then the opticalsadasddsf andwecadsvadassaasdadsv
 and the isda nomre thenth esd sasdvsadadsvasdasdasdfsadasdcerasdvsa asdaca wergwe
 #         print(f"Mobasdile creatqasdcasdwefesdd with sacasdcbraadsnasdvad nm{selfadas.bradand} and price {swecwelf.price}")sadas d
     $$324sdvazc zxadcsaasdcsaav qwefqwwqefqwjvgukhjvbsadcadssaasdcsd adscasdsd sadscsadasd
-sdfvdsfvsdbf#     def show_details(self):asdasdcsadc
+sdfvdsfvsdbf#     def show_details(self):asdasdcsadc sfd
 #         print(sadf"modile brand {self.brand} with th\z xz \\ze prdsadcice {self.price}as as "as dddddddddddd)sdfvs
 qwe
 # # 4. Class ka object banao (jaise JS mein new Mobile())
